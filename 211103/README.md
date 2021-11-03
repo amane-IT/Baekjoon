@@ -4,10 +4,11 @@
 
 |문제 제목|분류|난이도|
 |:---:|:---:|:---:|
-|[적록색약](https://www.acmicpc.net/problem/10026)|그래프 이론, 그래프 탐색, 너비 우선 탐색|골드 5|
-|[등수 구하기](https://www.acmicpc.net/problem/1205)|구현, 정렬|실버 5|
-|[보물](https://www.acmicpc.net/problem/1026)|정렬, 그리디 알고리즘, 수학|실버 4|
-|[신입 사원](https://www.acmicpc.net/problem/1946)|정렬, 그리디 알고리즘|실버 1|
+|[코스튬 파티](https://www.acmicpc.net/problem/6159)|정렬, 누적 합, 두 포인터|실버 4|
+|[N과 M(1)](https://www.acmicpc.net/problem/15649)|백트래킹|실버 3|
+|[N과 M(2)](https://www.acmicpc.net/problem/15649)|백트래킹|실버 3|
+|[N과 M(3)](https://www.acmicpc.net/problem/15649)|백트래킹|실버 3|
+|[N과 M(4)](https://www.acmicpc.net/problem/15649)|백트래킹|실버 3|
 
 
 ### 프로그래머스 문제 다시 풀기
