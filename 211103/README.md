@@ -14,3 +14,4 @@
 |문제 제목|분류|난이도|
 |:---:|:---:|:---:|
 |[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|스택, 큐|LEVEL 2|
+|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|정렬|LEVEL 2|
