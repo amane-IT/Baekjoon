@@ -4,3 +4,4 @@
 |문제 제목|분류|난이도|
 |:---:|:---:|:---:|
 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|완전탐색|LEVEL 2|
+|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|연습문제|LEVEL 1|
