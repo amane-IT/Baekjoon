@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main{
+class 랜선자르기{
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 구간합구하기5_성공 {
 	
     public static void main(String[] args) {
     	

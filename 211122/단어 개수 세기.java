@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 단어개수세기 {
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);
     	

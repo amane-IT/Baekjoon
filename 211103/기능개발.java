@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.ArrayList;
 
-class Solution {
+class 기능개발 {
     public int[] solution(int[] progresses, int[] speeds) {
         int[] answer = {};
         for(int i = 0; i < progresses.length; i++){

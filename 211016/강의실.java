@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 강의실 {
 	static class Lecture implements Comparable<Lecture>{
 		int idx, start, end;
 		

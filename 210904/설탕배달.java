@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 설탕배달 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         

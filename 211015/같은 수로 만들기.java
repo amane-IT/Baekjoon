@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 같은수로만들기 {
 	
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);

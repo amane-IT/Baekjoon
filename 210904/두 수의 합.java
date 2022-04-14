@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 두_수의_합 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

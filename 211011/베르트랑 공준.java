@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 베르트랑공준 {
 	
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);

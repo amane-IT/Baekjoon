@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class N과M1 {
 	static int[] arr;
 	static boolean[] check;
 	static int n, m;

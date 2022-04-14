@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main{
+public class 공통순열 {
     public static void main(String[] args) {
     	
     	Scanner sc = new Scanner(System.in);

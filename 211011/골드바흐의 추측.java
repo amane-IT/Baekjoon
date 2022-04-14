@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 골드바흐의추측_2 {
 	
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);

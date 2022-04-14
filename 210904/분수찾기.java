@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main {
+class 분수찾기 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 여우는어떻게울지 {
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);
     	

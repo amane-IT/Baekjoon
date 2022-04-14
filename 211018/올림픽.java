@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 올림픽 {
 	static class Medal implements Comparable<Medal>{
 		int idx, gold, silver, bronze, rank;
 		

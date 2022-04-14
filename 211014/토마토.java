@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 토마토 {
 	static class Dot{
 		int x, y;
 		

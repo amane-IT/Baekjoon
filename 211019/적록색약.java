@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 적록색약 {
 	static char[][] map;
 	static int[][] c, p;
 	static int cnt = 0, cnt_p = 0, n;

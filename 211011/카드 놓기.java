@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 카드놓기 {
 	static int n, k;
 	static int[] arr;
 	static boolean[] check;

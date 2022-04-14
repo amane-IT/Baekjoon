@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 최소_최대 {
 	
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);

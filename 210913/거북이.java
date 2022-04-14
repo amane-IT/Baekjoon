@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 거북이 {
 	static int[] dx = {0, -1, 0, 1};
 	static int[] dy = {1, 0, -1, 0};
 	static int d, x, y;

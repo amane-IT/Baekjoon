@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 연산자끼워넣기 {
 	static int n;
 	static int max = Integer.MIN_VALUE;
 	static int min = Integer.MAX_VALUE;

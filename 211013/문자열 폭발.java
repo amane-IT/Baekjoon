@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 문자열폭발 {
 	
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);

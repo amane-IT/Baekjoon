@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Main {
+class 크게만들기_시간초과 {
 	static int max = 0;
 	static char[] arr;
 	static boolean[] check;

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 구간합구하기5_시간초과 {
 	
     public static void main(String[] args) {
     	

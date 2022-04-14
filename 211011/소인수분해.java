@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 소인수분해 {
 	
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);

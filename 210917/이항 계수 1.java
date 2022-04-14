@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 이항계수1 {
 	
 	/*
 	 * 이항계수 = n! / ((n - k)! * k!)

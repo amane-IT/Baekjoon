@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main {
+class 두용액 {
     public static void main(String[] args) throws Exception {
         BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(sc.readLine());

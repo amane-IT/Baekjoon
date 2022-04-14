@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 연속부분최대곱 {
 	
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 회사에있는사람 {
 	
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);

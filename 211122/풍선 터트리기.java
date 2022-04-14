@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 풍선터트리기 {
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);
     	int n = sc.nextInt();

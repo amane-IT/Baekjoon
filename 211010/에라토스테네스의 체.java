@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 에라스토테네스의체 {
 	static boolean[] check;
 	
 	public static void main(String[] args) {

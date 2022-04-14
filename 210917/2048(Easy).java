@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class BOJ_2048Easy {
 	static int n;
 	static int max = 0;
 	

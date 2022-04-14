@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 가장긴증가하는부분수열2 {
 	
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 골드바흐의추측 {
 	static boolean[] check;
 	static final int MAX = 1000000;
 	

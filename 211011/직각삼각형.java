@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 직각삼각형 {
 	
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);

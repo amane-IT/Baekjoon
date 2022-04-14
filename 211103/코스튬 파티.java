@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 코스튬파티 {
 	public static void main(String[] args) {
     	
     	Scanner sc = new Scanner(System.in);

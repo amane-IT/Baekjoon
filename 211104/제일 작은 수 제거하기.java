@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.ArrayList;
 
-class Solution {
+class 제일작은수제거하기 {
     public int[] solution(int[] arr) {
         int[] answer = new int[arr.length - 1];
         List<Integer> list = new ArrayList<>();

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class N과M4_2 {
 	static int[] arr;
 	static int n, m;
 	static StringBuilder sb = new StringBuilder();

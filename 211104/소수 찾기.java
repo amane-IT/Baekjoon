@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class 소수찾기_2 {
     static char[] arr;
     static boolean[] check;
     static String[] num;

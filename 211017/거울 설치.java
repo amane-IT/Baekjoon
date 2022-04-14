@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 거울설치 {
 	
 	static class Mirror{
 		int row, col, dir, cnt;

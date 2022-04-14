@@ -1,4 +1,4 @@
-class Solution {
+class 타겟넘버 {
     static int answer = 0;
     public int solution(int[] numbers, int target) {
         

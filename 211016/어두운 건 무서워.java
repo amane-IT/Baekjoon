@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 어두운건무서워 {
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);
     	

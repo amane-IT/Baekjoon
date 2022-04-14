@@ -5,7 +5,7 @@ import java.util.*;
 세그먼트 트리를 몰라서 아래 주소 참고함
 https://coder-in-war.tistory.com/entry/BOJ-JAVA2357-%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B3%BC-%EC%B5%9C%EB%8C%93%EA%B0%92
 */
-class Main {
+class 최소값과최대값 {
 	static int n, m;
 	static int[] arr;
 	

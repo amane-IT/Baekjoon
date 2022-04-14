@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 크게만들기 {
 	static int max = 0;
 	static char[] arr;
 	

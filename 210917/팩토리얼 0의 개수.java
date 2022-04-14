@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 팩토리얼0의개수 {
 	
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);

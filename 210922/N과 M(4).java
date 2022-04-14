@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class N과M4 {
 	
 	static int n, k;
 	static int[] arr;

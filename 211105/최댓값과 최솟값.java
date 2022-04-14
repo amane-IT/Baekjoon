@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class PG_최댓값과최솟값 {
     public String solution(String s) {
         String answer = "";
         String[] arr = s.split(" ");
@@ -12,7 +12,7 @@ class Solution {
         
         Arrays.sort(arr);
         
-        answer = Integer.toString(arr[0]) + " " + Integer.toString(arr[arr.length - 1]);
+        answer = arr[0] + " " + arr[arr.length - 1];
         
         return answer;
     }
