@@ -30,10 +30,10 @@ fun main()=with(BufferedReader(InputStreamReader(System.`in`))){
     for(i in 0 until n){
         for(j in 0 until n){
 
-            var x = if(i + m / 2 < n) i + m / 2 else n - 1
-            var y = if(j + m / 2 < n) j + m / 2 else n - 1
-            var x2 = if(i - m / 2 - 1 >= 0) i - m / 2 - 1 else 0
-            var y2 = if(j - m / 2 - 1 >= 0) j - m / 2 - 1 else 0
+            val x = if(i + m / 2 < n) i + m / 2 else n - 1
+            val y = if(j + m / 2 < n) j + m / 2 else n - 1
+            val x2 = if(i - m / 2 - 1 >= 0) i - m / 2 - 1 else 0
+            val y2 = if(j - m / 2 - 1 >= 0) j - m / 2 - 1 else 0
 
             if(x >= n || y >= n)
                 continue
@@ -42,10 +42,13 @@ fun main()=with(BufferedReader(InputStreamReader(System.`in`))){
 
             val new = -1 * ((ans[x][y] - ans[x][y2] - ans[x2][y] + ans[x2][y2]) + map[i][j])
             ans[x][y] += new
+            print("${ans[x][y]} ")
+
         }
+        println()
     }
 
-    var sb = StringBuffer()
+    val sb = StringBuffer()
     for(i in 0 until n){
         for(j in 0 until n){
 
