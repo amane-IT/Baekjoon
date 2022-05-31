@@ -7,7 +7,7 @@ class 두_수의_합 {
         int[] arr = new int[n];
         
         for(int i = 0; i < n; i++) {
-        	arr[i] = sc.nextInt();
+            arr[i] = sc.nextInt();
         }
         
         int target = sc.nextInt();
@@ -19,15 +19,15 @@ class 두_수의_합 {
         int cnt = 0;
         
         while(start < end) {
-        	int sum = arr[start] + arr[end];
-        	
-        	if(sum == target)
-        		cnt++;
-        	
-        	if (sum <= target)
-        		start++;
-        	else
-        		end--;
+            int sum = arr[start] + arr[end];
+
+            if(sum == target)
+                cnt++;
+
+            if (sum <= target)
+                start++;
+            else
+                end--;
         }
         
         System.out.println(cnt);

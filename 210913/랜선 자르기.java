@@ -1,4 +1,4 @@
-import java.util.*;
+﻿import java.util.*;
 
 class 랜선자르기{
     public static void main(String[] args) throws Exception {
