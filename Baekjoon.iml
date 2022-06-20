@@ -24,14 +24,10 @@
       <sourceFolder url="file://$MODULE_DIR$/211122" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/220125" isTestSource="false" packagePrefix="BOJ" />
       <sourceFolder url="file://$MODULE_DIR$/22년 1월" isTestSource="false" packagePrefix="BOJ" />
-      <sourceFolder url="file://$MODULE_DIR$/22년/4월" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Test.Rakuten" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/22년/5월" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Test.SummerIntern" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Test.Deer" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
 </module>
