@@ -1,0 +1,7 @@
+-- 코드를 입력하세요
+SELECT a.id as PLACE_ID, a.name as NAME, count(b.place_id) as "개수"
+from PLACES a join PLACE_REVIEWS b
+on a.id = b.place_id
+group by b.place_id
+having count(b.place_id) > 0
+order by a.id
